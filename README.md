@@ -1,2 +1,2 @@
 # Audio-recorder
-Record a soud for indicated number of seconds
+Record the sound for indicated number of seconds
